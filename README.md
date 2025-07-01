@@ -1,16 +1,18 @@
+# Define a professional and feminine style using 'rose_pine' theme
+readme_professional_girl = """
 <h1 align="center">Hi 👋, I'm Riham Al-Siyabi</h1>
-<h3 align="center">A passionate programmer from Oman</h3>
+<h3 align="center">A passionate programmer and data enthusiast</h3>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riham2025&show_icons=true&theme=merko" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Riham2025&show_icons=true&theme=rose_pine" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riham2025&layout=compact&theme=merko" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riham2025&layout=compact&theme=rose_pine" alt="Top Languages" />
 </p>
 
 ---
@@ -39,3 +41,12 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
 - 🌐 [Portfolio](https://yourwebsite.com)  
+"""
+
+# Save to README.md file
+readme_path = "/mnt/data/README_pro_girl_style.md"
+with open(readme_path, "w", encoding="utf-8") as f:
+    f.write(readme_professional_girl)
+
+readme_path
+
