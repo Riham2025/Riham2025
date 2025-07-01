@@ -6,37 +6,36 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riham2025&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Riham2025&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riham2025&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riham2025&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🏅 Certificates
 
-- [x] Front-End Web Development – Coursera
-- [x] SQL for Data Science – edX
-- [x] Python Basics – IBM SkillsBuild
-- [x] Java Programming – Udemy
-- [x] Responsive Web Design – freeCodeCamp
+- [x] Front-End Web Development – Coursera  
+- [x] SQL for Data Science – edX  
+- [x] Python Basics – IBM SkillsBuild  
+- [x] Java Programming – Udemy  
+- [x] Responsive Web Design – freeCodeCamp  
 
 ---
 
 ### 🚀 Projects
 
-- 🏥 **Hospital Management System** – SQL Server (DB + Functions + Triggers + DCL + Views)
-- 📚 **Library Management System** – ERD, Relationships, SQL Queries
-- 🔢 **Math Adventure** – Scratch Game to teach kids addition/subtraction
-- 🐰 **Rabbit Escape** – Scratch game: Rabbit vs Fox in Forest
-- 🌐 **Personal Portfolio Website** – HTML, CSS, JavaScript
+- 🏥 **Hospital Management System** – SQL Server (ERD + Queries + Triggers + Views)  
+- 📚 **Library Management System** – SQL Server & Visual Studio  
+- 🔢 **Math Adventure** – Scratch Game for Learning Math  
+- 🐰 **Rabbit Escape** – Scratch Game: Rabbit runs from fox  
+- 🌐 **Portfolio Website** – HTML, CSS, JS  
 
 ---
 
 ### 💬 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🌐 [My Portfolio](https://yourwebsite.com)
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- 🌐 [Portfolio](https://yourwebsite.com)  
