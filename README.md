@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/0000000?v=4" width="150" height="150" style="border-radius: 50%;" alt="Profile Photo" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Riham Al-Siyabi</h1>
+
 <h3 align="center">A passionate programmer and data enthusiast</h3>
 
 
