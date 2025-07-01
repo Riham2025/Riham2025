@@ -3,7 +3,7 @@
 </p>
 
 
-<h3 align="center">A passionate programmer and data enthusiast</h3>
+
 
 
 
