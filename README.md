@@ -1,57 +1,42 @@
-# Hi there 👋 I'm Riham
-
-🌟 I'm passionate about learning programming and building cool projects.  
-🎯 Currently improving my skills in SQL, databases, and web development.  
-📚 Always excited to explore new technologies and grow as a developer.
-
----
-
-### 🏆 GitHub Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Riham2025&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<h1 align="center">Hi 👋, I'm Riham Al-Siyabi</h1>
+<h3 align="center">A passionate programmer from Oman</h3>
 
 ---
 
 ### 📊 GitHub Stats
 
-![Riham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riham2025&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Riham2025&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riham2025&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-### 🔥 GitHub Streak
+### 🏅 Certificates
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Riham2025&theme=radical&hide_border=true)
-
----
-
-### 🧠 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riham2025&layout=compact&theme=radical)
+- [x] Front-End Web Development – Coursera
+- [x] SQL for Data Science – edX
+- [x] Python Basics – IBM SkillsBuild
+- [x] Java Programming – Udemy
+- [x] Responsive Web Design – freeCodeCamp
 
 ---
 
-### 🗂️ Projects
+### 🚀 Projects
 
-Here are some of the projects I've worked on:
-
-- 📚 **Library Management System** – A full database system using SQL Server  
-- 🏥 **Hospital Management System** – Advanced SQL project with stored procedures, triggers, and roles  
-- 🐰 **Rabbit Escape Game** – Scratch game where a rabbit escapes a fox  
-
----
-
-### 🎓 Certifications
-
-Here are some of the certifications I've earned:
-
-- 🧾 **SQL for Data Analysis** – Issued by XYZ Academy – *June 2025*  
-- 🧾 **Introduction to Python Programming** – Issued by Coursera – *May 2025*  
-- 🧾 **Database Design Principles** – Issued by DataCamp – *March 2025*
+- 🏥 **Hospital Management System** – SQL Server (DB + Functions + Triggers + DCL + Views)
+- 📚 **Library Management System** – ERD, Relationships, SQL Queries
+- 🔢 **Math Adventure** – Scratch Game to teach kids addition/subtraction
+- 🐰 **Rabbit Escape** – Scratch game: Rabbit vs Fox in Forest
+- 🌐 **Personal Portfolio Website** – HTML, CSS, JavaScript
 
 ---
 
-### 💬 Let's Connect
+### 💬 Connect With Me
 
-- 💼 [GitHub Profile](https://github.com/Riham2025)
-- 📧 Open to learning and collaboration!
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 🌐 [My Portfolio](https://yourwebsite.com)
 
