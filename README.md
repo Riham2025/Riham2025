@@ -6,8 +6,8 @@
 <h3 align="center">A passionate programmer and data enthusiast</h3>
 
 
-# Define a professional and feminine style using 'rose_pine' theme
-readme_professional_girl = """
+
+
 <h1 align="center">Hi 👋, I'm Riham Al-Siyabi</h1>
 <h3 align="center">A passionate programmer and data enthusiast</h3>
 
